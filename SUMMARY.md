@@ -5,7 +5,7 @@
 * [Chapter2 Controlling Environment](chapter-2-controlling-environment.md)
 * [Chapter3 Configure Kivy](chapter3-configure-kivy.md)
 * [Chapter4 Architechtural Overivew](chapter4-architechtural-overivew.md)
-* Chapter5 Events and Properties
+* [Chapter5 Events and Properties](chapter5-events-and-properties.md)
 * Chapter6 Input Management
 * Chapter7 Widgets
 * Chapter8 Graphics
