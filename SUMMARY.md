@@ -9,7 +9,7 @@
 * [Chapter6 Input Management](chapter6-input-management.md)
 * [Chapter7 Widgets](chapter7-widgets.md)
 * [Chapter8 Graphics](chapter8-graphics.md)
-* Chapter9 Kivy Language
+* [Chapter9 Kivy Language](chapter9-kivy-language.md)
 * Chapter10 Integrating with other Frameworks
 * Chapter11 Packing your application
 * [Chapter12 Package Licensing](chapter12-package-licensing.md)
