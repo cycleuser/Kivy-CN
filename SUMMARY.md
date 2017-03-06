@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Preface Installation](chapter1/preface-installation.md)
 * [Chapter1 Basics](chapter1.md)
 * [Chapter2 Controlling Environment](chapter-2-controlling-environment.md)
 * [Chapter3 Configure Kivy](chapter3-configure-kivy.md)
@@ -10,7 +11,7 @@
 * [Chapter7 Widgets](chapter7-widgets.md)
 * [Chapter8 Graphics](chapter8-graphics.md)
 * [Chapter9 Kivy Language](chapter9-kivy-language.md)
-* Chapter10 Integrating with other Frameworks
+* [Chapter10 Integrating with other Frameworks](chapter10-integrating-with-other-frameworks.md)
 * Chapter11 Packing your application
 * [Chapter12 Package Licensing](chapter12-package-licensing.md)
 
