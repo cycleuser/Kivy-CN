@@ -2,9 +2,7 @@
 
 \#\# 翻译暂告段落
 
-从去年开始的 \[Kivy 编程指南中文翻译项目\]\([https://github.com/cycleuser/Kivy-CN\).](https://github.com/cycleuser/Kivy-CN\)，今天基本算是弄完了，我把)
-
-今天基本算是弄完了，把  Programming Guide 里面的全部内容翻译了一遍。
+从去年开始的Kivy 编程指南中文翻译项目，今天基本算是弄完了，把 Kivy Programming Guide 里面的全部内容翻译了一遍。
 
 当然了，质量还是不怎么样好，所以希望大家多批评指正，我会尽快改正。
 
