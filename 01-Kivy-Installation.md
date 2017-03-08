@@ -7,7 +7,7 @@ Tags: Python,Kivy
 # Kivy 中文安装指南
 
 译者的话：
-接触Python有一段时间了，之前翻译过[ThinkPython2E](http://blog.cycleuser.org/thinkpython-zhong-wen-ban.html)，我也仍然还是个很菜很弱很入门的外行人。
+接触Python有一段时间了，之前翻译过[ThinkPython2E](https://zhuanlan.zhihu.com/p/24644499)，我也仍然还是个很菜很弱很入门的外行人。
 我接下来翻译的关于Kivy的各种内容，不出意外的话也必将充满了各种低级错误。
 如果这些错误有影响到大家阅读理解，提前表示一下歉意。
 特别希望大家能把错误的地方指出来，让我学习的同时也及时改正。
