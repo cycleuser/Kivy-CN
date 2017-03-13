@@ -11,9 +11,13 @@ Tags: Python,Kivy
 
 ## 译者的废话
 
+
+开头先给干货，本文提到的[虚拟机镜像的下载地址](https://pan.baidu.com/s/1mhIUz3q)。
+
 从去年开始，我开始了 [Kivy 编程指南中文翻译项目](https://github.com/cycleuser/Kivy-CN)，把 Kivy Programming Guide 里面的全部内容翻译了一遍。大家可以去我的[知乎专栏](https://zhuanlan.zhihu.com/python-kivy)或者我的 [GitHub](https://github.com/cycleuser) 查看详细内容。
 
-Kivy 的多平台支持以及使用 Python 这一新手友好的语言的两大特性都很棒，然而世事难求全，APK 生成和搭建有时候挺繁琐的，尤其对于一些不太熟悉 Linux 的纯新人。所以官方提供了很多文档，我也进行了翻译，包括[KV Android 详细指南](https://zhuanlan.zhihu.com/p/25576296),[打包为 Android 系统可执行文件](https://zhuanlan.zhihu.com/p/25571974)，以及一个[ Kivy 开发团队提供的 Android 打包用的虚拟机镜像](https://zhuanlan.zhihu.com/p/25583908)。国内的大拿 [nkiiiiid](https://github.com/) 也提供了一个他的定制版本的[虚拟机镜像](https://github.com/nkiiiiid/kivy-apk-)。
+Kivy 的多平台支持以及使用 Python 这一新手友好的语言的两大特性都很棒，然而世事难求全，APK 生成和搭建有时候挺繁琐的，尤其对于一些不太熟悉 Linux 的纯新人。所以官方提供了很多文档，我也进行了翻译，包括[KV Android 详细指南](https://zhuanlan.zhihu.com/p/25576296),[打包为 Android 系统可执行文件](https://zhuanlan.zhihu.com/p/25571974)，以及一个[ Kivy 开发团队提供的 Android 打包用的虚拟机镜像](https://zhuanlan.zhihu.com/p/25583908)。国内的大拿 [nkiiiiid](https://github.com/nkiiiiid/) 也提供了一个他的定制版本的[虚拟机镜像](https://github.com/nkiiiiid/kivy-apk-)。更推荐用[nkiiiiid](https://github.com/nkiiiiid/) 提供的这个版本，16.04 用着更舒服。群里面大家也普遍喜欢用这个版本。
+
 
 然后进有一位@郝好  的朋友提供了重要信息，说[brizanmedia.com](http://brizanmedia.com) 提供的这个 lubuntu 14.04.3 的 32bit 虚拟机镜像用着很不错。
 
