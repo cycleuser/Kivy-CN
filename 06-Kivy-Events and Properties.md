@@ -248,13 +248,15 @@ ev.do_something('test')
 ##简介属性Properties
 
 
-属性（Properties）是定义和绑定事件的一种很赞的办法。关键就是属性能生成事件，这样当你的某个对象中有一个属性（attribute）发生改变的时候，所有引用该属性（attribute）的属性（Properties）都会被自动更新
+>群友`十月的天空` 提示：attribute 和 property 都翻译成了 属性， 字面上确实没错，但是读起来就莫名其妙了。 从本质上讲 property是 kivy 特色，个人理解 property 包含于attitude 而且绑定 widget 类，是否可以翻译成`控件属性` 或者 `构件属性` 之类。
+
+`控件属性`（Properties）是定义和绑定事件的一种很赞的办法。关键就是属性能生成事件，这样当你的某个对象中有一个属性（attribute）发生改变的时候，所有引用该属性（attribute）的`控件属性`（Properties）都会被自动更新
 
 译者注：我汉语词汇量匮乏了，很痛苦，这里说不明白了，所以就放了原文的单词作为对比，避免混淆了。
 
 
 
-针对你要处理的数据类型，存在很多种不同类型的属性（Properties）：
+针对你要处理的数据类型，存在很多种不同类型的`控件属性`性（Properties）：
 
 * [字符串属性StringProperty](http://kivy.org/docs/api-kivy.properties.html#kivy.properties.StringProperty "kivy.properties.StringProperty")
 * [数值属性NumericProperty](http://kivy.org/docs/api-kivy.properties.html#kivy.properties.NumericProperty "kivy.properties.NumericProperty")
@@ -273,16 +275,13 @@ ev.do_something('test')
 
 ##属性声明
 
-要声明属性（Properties），必须要在类的层次上进行声明。接下来这个类才能在你创建对象的时候对真是的属性（attributes）进行实例化。此属性（Properties）非彼属性（attributes），Properties是根据你的attributes来创建事件的机制，例如：
+要声明`控件属性`（Properties），必须要在类的层次上进行声明。接下来这个类才能在你创建对象的时候对真是的属性（attributes）进行实例化。此`控件属性`（Properties）非彼属性（attributes），`控件属性` Properties是根据你的attributes来创建事件的机制，例如：
 
 
 ```Python
 class MyWidget(Widget):
     text = StringProperty('')
 ```
-
-译者注：我这段翻译的很垃圾，一来是自己水平问题，二来是自己的语言能力问题。
-
 
 
 
@@ -298,7 +297,7 @@ def __init__(self, **kwargs):
 ##分派属性事件
 
 
-Kivy的属性Property，默认提供了一个on_事件。在属性被改变的时候，就会调用这个事件了。
+Kivy的`控件属性`Property，默认提供了一个on_事件。在属性被改变的时候，就会调用这个事件了。
 
 
 ####特别注意
