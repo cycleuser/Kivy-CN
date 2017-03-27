@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 跟学习开发Android应用的时候类似，咱们首先也是要了解一下Kivy应用的生命周期：
 
-![](/images/Kivy_App_Life_Cycle_CN.png)
+![](https://github.com/cycleuser/Kivy-CN/blob/master/Images/Kivy_App_Life_Cycle_CN.png?raw=true)
 
 如上图所示，不论什么用途和目的，咱们应用的入口都是这个run()方法，在本文的样例代码中，就是“MyApp().run()”。
 
