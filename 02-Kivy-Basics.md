@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
 ## Kivy应用的生命周期
 
-跟学习开发Android应用的时候类似，咱们首先也是要了解一下Kivy应用的生命周期（生命周期图由[大涂](https://github.com/tuyunlei)汉化）：
+跟学习开发Android应用的时候类似，咱们首先也是要了解一下Kivy应用的生命周期（生命周期图由[小涂](https://github.com/tuyunlei)汉化）：
 
 ![](https://github.com/cycleuser/Kivy-CN/blob/master/Images/Kivy_App_Life_Cycle_CN.png?raw=true)
 
