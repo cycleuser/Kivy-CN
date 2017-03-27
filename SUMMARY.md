@@ -3,6 +3,7 @@
 * [前言](README.md)
 * [简介](00-Kivy-CN.md)
 * [安装](01-Kivy-Installation.md)
+* [开发环境](12-Kivy-IDE.md)
 * [基础](02-Kivy-Basics.md)
 * [环境](03-Kivy-Environment.md)
 * [配置](04-Kivy-Config.md)
@@ -12,7 +13,6 @@
 * [控件](08-Kivy-Widgets.md)
 * [图形](09-Kivy-Graphics.md)
 * 语言
-* [整合](11-Kivy-Integration.md)
 * [开发环境](12-Kivy-IDE.md)
 * [Windows 打包](13-Kivy-Pack-Windows.md)
 * [Android](14-Kivy-Android.md)
