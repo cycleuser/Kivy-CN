@@ -494,7 +494,7 @@ if __name__ == '__main__':
 
 ### controller.kv 文件中的布局样式
 
-没有对应的 kv 文件，应用程序也能运行，只不过是屏幕上不会有任何显示输出。这个是符合情理的，因为毕竟控制器 `Controller` 这个类是没有任何控件的，就只是一个`FloatLayout`（流动输出？）咱们可以创建一个名字为 controller.kv 的文件，来围绕着这个控制器类 `Controller` 搭建 UI （用户界面），这个文件会在运行 `ControllerApp` 的时候被加载。这个具体怎么实现的，以及加载类哪些文件，可以参考 [`kivy.app.App.load_kv()`](https://kivy.org/docs/api-kivy.app.html#kivy.app.App.load_kv "kivy.app.App.load_kv") 方法里的描述。
+没有对应的 kv 文件，应用程序也能运行，只不过是屏幕上不会有任何显示输出。这个是符合情理的，因为毕竟控制器 `Controller` 这个类是没有任何控件的，就只是一个`FloatLayout`（浮动布局）咱们可以创建一个名字为 controller.kv 的文件，来围绕着这个控制器类 `Controller` 搭建 UI （用户界面），这个文件会在运行 `ControllerApp` 的时候被加载。这个具体怎么实现的，以及加载类哪些文件，可以参考 [`kivy.app.App.load_kv()`](https://kivy.org/docs/api-kivy.app.html#kivy.app.App.load_kv "kivy.app.App.load_kv") 方法里的描述。
 
 
 ```Python
